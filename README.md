@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadevarapranav&label=Profile%20views&color=28a745&style=flat" alt="suryadevarapranav" class="profile-views" /> </p>
 
-- 🔭 I’m currently learning **React & Django**
+- 🔭 I’m currently learning **React & Go**
 
 - 💬 Ask me about **Angular, AWS, Machine Learning**
 
